@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="TCS2.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8" />
+    </startup>
+    <userSettings>
+        <TCS2.Properties.Settings>
+            <setting name="Password_acces" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Sound" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="Start" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="PasswordSalt" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="HashedPassword" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Rescue_Password_" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Traslox" serializeAs="String">
+                <value />
+            </setting>
+        </TCS2.Properties.Settings>
+    </userSettings>
+</configuration>
