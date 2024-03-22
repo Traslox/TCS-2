@@ -6,4 +6,3 @@ TCS stands for Traslox's Communication System. TCS is designed to bring together
 
 # Platforms
 ![Windows_logo_-_2012 svg](https://github.com/Traslox/TCS-2/assets/107253054/44c7c909-b3b2-4d6a-9d94-854be9c898d2)
-150x150
