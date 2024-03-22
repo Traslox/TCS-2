@@ -3,3 +3,6 @@
 
 # What is TCS?
 TCS stands for Traslox's Communication System. TCS is designed to bring together the most popular chat programs. It's easier than other chat programs, which can sometimes be annoying. You may end up downloading a lot of programs for chatting, which is a waste of time. Therefore, TCS is the best option for you.
+
+# Platforms
+![Windows_logo_-_2012 svg](https://github.com/Traslox/TCS-2/assets/107253054/6fcbc7cb-3ca6-491d-a730-132645461149)
