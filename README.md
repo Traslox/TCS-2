@@ -22,8 +22,11 @@ White
 # Does it have more changes?
 
 Google Translater shortcut
+
 Split screen
+
 Paint Shortcut
+
 TCS's new note extension
 
 # Supported Platforms
