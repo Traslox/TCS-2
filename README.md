@@ -19,6 +19,12 @@ White
 ![NewUIDiscord](https://github.com/user-attachments/assets/6580a050-0cb5-4fe2-b7b3-f89db56d44e9)
 
 
+# Does it have more changes?
+
+Google Translater shortcut
+Split screen
+Paint Shortcut
+TCS's new note extension
 
 # Supported Platforms
 ![Windows_logo_-_2012 svg](https://github.com/Traslox/TCS-2/assets/107253054/b3bc9377-187d-433e-98b0-0d038a663a71)
