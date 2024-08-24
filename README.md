@@ -6,8 +6,16 @@ TCS stands for Traslox's Communication System. TCS is designed to bring together
 
 # New Interface
 
+Lock Screen
+![NewUILockScreen](https://github.com/user-attachments/assets/bf05fa33-3b1f-4aba-9e0e-843943d906a5)
+
+Blue
 ![NewUIBlue](https://github.com/user-attachments/assets/43eb98f3-b74a-4fe4-aeed-9131d86a5de2)
+
+Red
 ![NewUIRed](https://github.com/user-attachments/assets/789f2bd6-e77d-483d-ae74-7b82f2ab1a5b)
+
+White
 ![NewUIDiscord](https://github.com/user-attachments/assets/6580a050-0cb5-4fe2-b7b3-f89db56d44e9)
 
 
