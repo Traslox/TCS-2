@@ -1,4 +1,8 @@
 # TCS-2
+
+![TCS_new_logo-removebg-preview (1)](https://github.com/user-attachments/assets/30de1e32-a279-485b-a043-c49c5023e56f)
+
+
 ![TCS Reklam Gif](https://github.com/Traslox/TCS-2/assets/107253054/b6ee7852-1512-49b0-9a57-719d3f383d5a)
 
 # What is TCS?
